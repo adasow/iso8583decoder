@@ -667,7 +667,7 @@ public class Iso8583decoder {
                 }
                 wStr="</PACKET>\n\n";
                 try {bwpcktsAnalysis.write(wStr);}
-                catch (IOException ex) {System.out.println("Cannot write Packets Analysis file");}                                                                                                                                                                                                                
+                catch (IOException ex) {System.out.println("Cannot write Packets Analysis file. Error");}                                                                                                                                                                                                                
                 //System.out.println("</PACKET>\n");                
             }  
         };  
