@@ -119,12 +119,12 @@ public class Iso8583decoder {
     
     public static void main(String[] args) throws IOException {
         System.out.println("*******************************************************");
-        System.out.println("* ISO8583 Decoder for Piraeus Bank                    *");
+        System.out.println("* ISO8583 Decoder                                     *");
         System.out.println("*                                                     *");
         System.out.println("* This decoder has been developed to facilitate       *");
-        System.out.println("* troubleshooting of ISO8583 protocol in Piraeus Bank *");
+        System.out.println("* troubleshooting of ISO8583 protocol                 *");
         System.out.println("*                                                     *");
-        System.out.println("* copyright (c) March 2013 - Vangelis Iliakis         *");
+        System.out.println("* copyright (c) March 2013 -                          *");
         System.out.println("* Version 1.0                                         *");
         System.out.println("*******************************************************");        
         System.out.println("");
